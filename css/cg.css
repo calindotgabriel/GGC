@@ -1,0 +1,35 @@
+/* Calin Gabriel Add-ons
+---------------------------*/
+
+.reddish {
+    color: #cb2026;
+}
+
+
+.greenish {
+    color: #7cc576;
+}
+
+.time {
+    color: #cb2026;
+}
+
+.blackish {
+    color: rgb(34, 34, 34);
+}
+
+.client li a h3{
+    color: #cb2026;
+}
+
+.client li a span{
+    color: rgb(34, 34, 34);
+}
+
+.quote-right {
+    margin-bottom: 20px;
+}
+
+.bgrr-20 {
+    font-size: 120%;
+}
